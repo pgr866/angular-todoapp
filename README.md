@@ -1,6 +1,6 @@
-# Todoapp
+# angular-todo
 
-[Demo](https://todoapp-a6057.firebaseapp.com/)
+[Demo](https://angular-todo-8c1fa.web.app)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 

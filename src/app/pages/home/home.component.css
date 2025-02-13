@@ -25,7 +25,7 @@
   display: none;
 }
 
-.todoapp-wrapper {
+.angular-todo-wrapper {
   position: relative;
   top: -40px;
   background: #fff;
@@ -34,19 +34,19 @@
   overflow: hidden;
 }
 
-.todoapp input::-webkit-input-placeholder {
+.angular-todo input::-webkit-input-placeholder {
   font-style: italic;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.4);
 }
 
-.todoapp input::-moz-placeholder {
+.angular-todo input::-moz-placeholder {
   font-style: italic;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.4);
 }
 
-.todoapp input::input-placeholder {
+.angular-todo input::input-placeholder {
   font-style: italic;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.4);
