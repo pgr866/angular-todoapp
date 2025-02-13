@@ -1,4 +1,4 @@
-# angular-todo
+# Angular-todo
 
 [Demo](https://angular-todo-8c1fa.web.app)
 
